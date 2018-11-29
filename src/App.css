@@ -1,0 +1,21 @@
+.App {
+}
+
+body {
+  margin: 0;
+  background-color: #fff;
+  border: 1px solid #fff;
+  border-radius: 30px;
+}
+
+li {
+  padding: 5px;
+}
+
+textarea {
+  width: 100%;
+}
+
+small {
+  color: #888;
+}
